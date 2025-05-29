@@ -8,7 +8,7 @@ This repository serves as the central hub for tracking issues, feature requests,
 
 ## Credits & Attribution
 
-The foundation of this site is built upon the excellent work from the [original v4 website source](https://codeberg.org/3kh0/website-v4/). While the core architecture remains, several modifications have been implemented. 
+The foundation of this site is built upon the excellent work of 3kh0 and the contributors from the [original v4 website source](https://codeberg.org/3kh0/website-v4/). While the core architecture remains, several modifications have been implemented. 
 
 ## Acknowledgments
 
