@@ -8,12 +8,12 @@ This repository serves as the central hub for tracking issues, feature requests,
 
 ## Credits & Attribution
 
-The foundation of this site is built upon the excellent work of 3kh0 and the contributors from the [original v4 website source](https://codeberg.org/3kh0/website-v4/). While the core architecture remains, several modifications have been implemented. 
+The foundation of this site is built upon the excellent work of [3kh0](https://github.com/3kh0) and the contributors from the [original v4 website source](https://codeberg.org/3kh0/website-v4/). While the core architecture remains, several modifications have been implemented. 
 
 ## Acknowledgments
 
 > [!NOTE]
-> **To 3kh0**: This project represents a revival and continuation of the v4 source code, not an attempt to replicate or steal your work. The `about.html` page has been updated to reflect current maintainership while preserving attribution to you.
+> **To [3kh0](https://github.com/3kh0)**: This project represents a revival and continuation of the v4 source code, not an attempt to replicate or steal your work. The `about.html` page has been updated to reflect current maintainership while preserving attribution to you.
 
 ## Contact
 
